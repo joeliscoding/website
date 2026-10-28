@@ -32,7 +32,7 @@
           version = "0.0.1";
           src = ./.;
           fetcherVersion = 4;
-          hash = "sha256-RCknC6SrqiTfk/2rwVCC85ly5CvUoMqSzv5N2NqErwI=";
+          hash = "sha256-9IhrqewW8d4PUGrV2CFpXAaQqwY5NAGKoN+PSxhe3fo=";
         };
 
         buildPhase = ''
